@@ -7,8 +7,7 @@
 
 .bookssection{
     margin: 0px;
-    padding: 0px;
-  
+    padding: 0px;  
 }
 ul{
     margin: 10px;
@@ -25,8 +24,7 @@ li{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding-left: 20px; 
-    
+    padding-left: 20px;  
     
 
 }
